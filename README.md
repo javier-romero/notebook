@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/krr-up/notebook.git/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/krr-up/notebook.git/examples)
 
 ## Run a cell with magic command %%clingo
 ```
